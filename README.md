@@ -1,9 +1,4 @@
 # Keyword Spotting (KWS) Using MFCC and Convolutional Neural Networks
-
-## Problem Statement
-Design and implement a **Keyword Spotting (KWS)** system that can detect predefined spoken keywords from audio signals using **Mel-Frequency Cepstral Coefficients (MFCC)** and **Convolutional Neural Networks (CNNs)**.  
-The system should support both **offline training** and **real-time keyword detection** using microphone input.
-
 ---
 
 ## 1. Implementation
