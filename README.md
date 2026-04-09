@@ -83,7 +83,7 @@ The system workflow includes audio preprocessing, feature extraction, model trai
 
 ## 2. Results
 
-The CNN-based keyword spotting system demonstrated strong performance on the Speech Commands dataset.
+The CNN-based keyword spotting system achieved 92% accuracy on 10-class Google Speech Commands dataset.
 
 - Training and validation accuracy showed stable convergence
 - Confusion matrix exhibited strong diagonal dominance, indicating correct classification of most keywords
